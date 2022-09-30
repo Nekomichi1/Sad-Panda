@@ -1,2 +1,2 @@
-# Sad-Panda
+# SadPanda
 Prueba de Eureka
